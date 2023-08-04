@@ -589,7 +589,7 @@ function CheckQuest()
          CFrameQuest = CFrame.new(-821.37353515625, 65.845359802246, -10970.177734375)
          CFrameMon = CFrame.new(-754.50042724609, 214.3367767334, -10966.411132812)
       elseif MyLevel >= 2200 or MyLevel <= 2224 then
-         Ms = "Cookie Crafter [Lv. 2000]"
+         Ms = "Cookie Crafter [Lv. 2200]"
          NameMon = "Cookie Crafter"
          QuestName = "CakeIslandQuest1"
          LevelQuest = 1
@@ -597,7 +597,7 @@ function CheckQuest()
          CFrameQuest = CFrame.new(-2022.57421875, 37.82400894165039, -12028.9482421875)
          CFrameMon = CFrame.new(-2381.36865234375, 37.824039459228516, -12140.4970703125)
       elseif MyLevel >= 2225 or MyLevel <= 2249 then
-         Ms = "Cake Guard [Lv. 2025]"
+         Ms = "Cake Guard [Lv. 2225]"
          NameMon = "Cake Guard"
          QuestName = "CakeIslandQuest1"
          LevelQuest = 1
@@ -605,7 +605,7 @@ function CheckQuest()
          CFrameQuest = CFrame.new(-2022.57421875, 37.82400894165039, -12028.9482421875)
          CFrameMon = CFrame.new(-1616.412353515625, 37.82392883300781, -12244.705078125)
       elseif MyLevel >= 2250 or MyLevel <= 2274 then
-         Ms = "Baking Staff [Lv. 2050]"
+         Ms = "Baking Staff [Lv. 2250]"
          NameMon = "Baking Staff"
          QuestName = "CakeIslandQuest2"
          LevelQuest = 2
